@@ -1,2 +1,2 @@
 # bipaderobot
-a simple bipade robot that walk like hman
+a simple bipade robot that walk like human
